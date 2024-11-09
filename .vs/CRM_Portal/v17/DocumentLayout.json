@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Full stack\\React_projects\\CRM_Portal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Full stack\\React_projects\\CRM_Portal\\Migrations\\20241109053110_Fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241109053110_Fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\375807\\AppData\\Local\\Temp\\0dr1oyxe..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\controllers\\addusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:controllers\\addusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Full stack\\React_projects\\CRM_Portal\\Migrations\\20241109050836_Third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241109050836_Third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\models\\addtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:models\\addtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\models\\entity\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:models\\entity\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\models\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:models\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\models\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:models\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/CRMDBNEW/True/SqlTable/dbo.users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\crm_portal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:crm_portal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\models\\addtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:models\\addtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\models\\entity\\taskmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:models\\entity\\taskmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\models\\addbrands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:models\\addbrands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\models\\entity\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:models\\entity\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\models\\entity\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:models\\entity\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|d:\\full stack\\react_projects\\crm_portal\\crm_portal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC1FB268-54AB-47CC-B92A-42B500A8C1CA}|CRM_Portal.csproj|solutionrelative:crm_portal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Full stack\\React_projects\\CRM_Portal\\Models\\Entity\\Pipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Entity\\Pipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Full stack\\React_projects\\CRM_Portal\\Models\\AddPipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\AddPipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\375807\\AppData\\Local\\Temp\\0dr1oyxe..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\375807\\AppData\\Local\\Temp\\0dr1oyxe..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241109053110_Fourth.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Migrations\\20241109053110_Fourth.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241109053110_Fourth.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Migrations\\20241109053110_Fourth.cs",
+              "RelativeToolTip": "Migrations\\20241109053110_Fourth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:31:10.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\375807\\AppData\\Local\\Temp\\0dr1oyxe..sql",
+              "ToolTip": "SQLQuery2.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-09T05:12:19.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241109050836_Third.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Migrations\\20241109050836_Third.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241109050836_Third.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Migrations\\20241109050836_Third.cs",
+              "RelativeToolTip": "Migrations\\20241109050836_Third.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:08:36.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserBLL.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\BLL\\UserBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\UserBLL.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\BLL\\UserBLL.cs",
+              "RelativeToolTip": "BLL\\UserBLL.cs",
+              "ViewState": "AQIAANQBAAAAAAAAAAAmwNkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:36:46.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddUserController.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Controllers\\AddUserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AddUserController.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Controllers\\AddUserController.cs",
+              "RelativeToolTip": "Controllers\\AddUserController.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAmwNwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:09:15.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddTickets.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\AddTickets.cs",
+              "RelativeDocumentMoniker": "Models\\AddTickets.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\AddTickets.cs",
+              "RelativeToolTip": "Models\\AddTickets.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:04:20.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tickets.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\Entity\\Tickets.cs",
+              "RelativeDocumentMoniker": "Models\\Entity\\Tickets.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\Entity\\Tickets.cs",
+              "RelativeToolTip": "Models\\Entity\\Tickets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:04:43.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:58:35.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddUser.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\AddUser.cs",
+              "RelativeDocumentMoniker": "Models\\AddUser.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\AddUser.cs",
+              "RelativeToolTip": "Models\\AddUser.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAUwDgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:31:33.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Base.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\Base.cs",
+              "RelativeDocumentMoniker": "Models\\Base.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\Base.cs",
+              "RelativeToolTip": "Models\\Base.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:56:00.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/CRMDBNEW/True/SqlTable/dbo.users.sql",
+              "ToolTip": "dbo.users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-19T05:39:04.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T07:00:00.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:59:46.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CRM_Portal.http",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\CRM_Portal.http",
+              "RelativeDocumentMoniker": "CRM_Portal.http",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\CRM_Portal.http",
+              "RelativeToolTip": "CRM_Portal.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-31T06:14:34.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddTask.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\AddTask.cs",
+              "RelativeDocumentMoniker": "Models\\AddTask.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\AddTask.cs",
+              "RelativeToolTip": "Models\\AddTask.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:24:53.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Pipeline.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\Entity\\Pipeline.cs",
+              "RelativeDocumentMoniker": "Models\\Entity\\Pipeline.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\Entity\\Pipeline.cs",
+              "RelativeToolTip": "Models\\Entity\\Pipeline.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:07:01.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskManage.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\Entity\\TaskManage.cs",
+              "RelativeDocumentMoniker": "Models\\Entity\\TaskManage.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\Entity\\TaskManage.cs",
+              "RelativeToolTip": "Models\\Entity\\TaskManage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:21:56.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DBhelper.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Data\\DBhelper.cs",
+              "RelativeDocumentMoniker": "Data\\DBhelper.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Data\\DBhelper.cs",
+              "RelativeToolTip": "Data\\DBhelper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:45:51.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddBrands.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\AddBrands.cs",
+              "RelativeDocumentMoniker": "Models\\AddBrands.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\AddBrands.cs",
+              "RelativeToolTip": "Models\\AddBrands.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswFoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:40:24.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\Entity\\Brand.cs",
+              "RelativeDocumentMoniker": "Models\\Entity\\Brand.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\Entity\\Brand.cs",
+              "RelativeToolTip": "Models\\Entity\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:41:10.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\Entity\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Entity\\Car.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\Entity\\Car.cs",
+              "RelativeToolTip": "Models\\Entity\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:05:48.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddPipeline.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\AddPipeline.cs",
+              "RelativeDocumentMoniker": "Models\\AddPipeline.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\AddPipeline.cs",
+              "RelativeToolTip": "Models\\AddPipeline.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:47:43.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Models\\Entity\\User.cs",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\Models\\Entity\\User.cs",
+              "RelativeToolTip": "Models\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:00:21.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CRM_Portal.csproj",
+              "DocumentMoniker": "D:\\Full stack\\React_projects\\CRM_Portal\\CRM_Portal.csproj",
+              "RelativeDocumentMoniker": "CRM_Portal.csproj",
+              "ToolTip": "D:\\Full stack\\React_projects\\CRM_Portal\\CRM_Portal.csproj",
+              "RelativeToolTip": "CRM_Portal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T06:55:35.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
